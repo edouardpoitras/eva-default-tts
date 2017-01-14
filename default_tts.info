@@ -1,0 +1,3 @@
+name = Default Text-to-Speech
+description = The default Eva text-to-speech implementation.
+version = 0.1.0
